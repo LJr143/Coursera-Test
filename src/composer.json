@@ -1,6 +1,0 @@
-{
-  "require": {
-    "phpoffice/phpspreadsheet": "^1.13",
-    "nette/mail": "^3.1"
-  }
-}
